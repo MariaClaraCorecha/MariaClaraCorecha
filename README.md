@@ -1,4 +1,8 @@
-<h2 align="left">Olá! eu sou  Maria Clara Corecha</h2>
+<h2 align="left">Olá! Me chamo Maria Clara Corecha.</h2>
+
+###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg"  />
 
 ###
 
@@ -11,16 +15,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif"  />
 
 ###
 
