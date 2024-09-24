@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/mariaclaracorecha" target="_blank">
+  <a href="https://www.linkedin.com/in/mariaclaracorecha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mariaclaracorecha18@gmail.com" target="_blank">
+  <a href="mailto:mariaclaracorecha18@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/mariaclara_corecha" target="_blank">
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Linguagems e Ferramentas</h3>
+<h3 align="left">Linguagens e Ferramentas</h3>
 
 ###
 
@@ -52,6 +52,10 @@
 
 ###
 
-<h3 align="left"></h3>
+<h3 align="left">Estatísticas do GitHub</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaClaraCorecha&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</div>
 
 ###
