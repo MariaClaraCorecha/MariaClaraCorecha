@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 Atualmente cursando uma graduação em Ciência da Computação.<br>- 🌱 Estudando estrutura de dados e banco de dados.<br>- 👯 Procuro colaborar em projetos de Ciência de Dados ou Análise de Dados.<br>- 🤔 Busco ajuda em desenvolvimento de projetos de Ciência de Dados.<br>- 📫 Como entrar em contato: mariaclaracorecha18@gmail.com <br>- 😄 Pronomes: Ela/Dela<br>- ⚡ Curiosidades: Amo viajar e sou apaixonada por gatos, especialmente minha gatinha Lola 🐱.</p>
+<p align="left">- 🔭 Atualmente cursando uma graduação em Ciência da Computação.<br>- 🌱 Estudando estrutura de dados e banco de dados.<br>- 👯 Procuro colaborar em projetos de Ciência de Dados ou Análise de Dados.<br>- 🤔 Busco ajuda em desenvolvimento de projetos de Ciência de Dados.<br>- 📫 Como entrar em contato: mariaclaracorecha18@gmail.com <br>- 😄 Pronomes: Ela/Dela<br>- ⚡ Curiosidades: Amo viajar e sou apaixonada por gatos, especialmente minha gatinha Lola 🐱. </p>
 
 ###
 
