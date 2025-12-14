@@ -20,7 +20,7 @@
 ### 👩🏻‍💻 Sobre mim  
 
 - 🎓 Estudante de **Ciência da Computação**  
-- 💡 Focada em **desenvolvimento back-end com Java e Spring Boot**  
+- 💡 Focada em **desenvolvimento back-end com Java e PHP**  
 - 🧩 Explorando boas práticas de engenharia de software e banco de dados  
 - 💬 Sempre disposta a aprender e compartilhar conhecimento  
 - 🐱 Apaixonada por gatos (especialmente minha gatinha **Lola**)  
