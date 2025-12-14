@@ -30,9 +30,11 @@
 
 ###  Tecnologias que utilizo  
 
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,html,css,c,mysql,postgresql,git,github,vscode,idea,photoshop&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,php,react,typescript,html,css,c,mysql,postgresql,git,github,vscode,idea&theme=dark" />
 </div>
+
 
 ---
 
