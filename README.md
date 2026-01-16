@@ -38,10 +38,6 @@
 ---
 
 
-
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
