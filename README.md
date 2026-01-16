@@ -1,4 +1,4 @@
-# Olá!, eu sou Maria Clara Corecha  
+# 👋 Olá! Eu sou a Maria Clara Corecha
 
 <div align="center">
   <img height="180" src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" />
@@ -17,37 +17,39 @@
 
 ---
 
-### 👩🏻‍💻 Sobre mim  
+## 👩🏻‍💻 Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação**  
-- 💡 Focada em **desenvolvimento back-end com Java e PHP**  
-- 🧩 Explorando boas práticas de engenharia de software e banco de dados  
-- 💬 Sempre disposta a aprender e compartilhar conhecimento  
-- 🐱 Apaixonada por gatos (especialmente minha gatinha **Lola**)  
-- ✈️ Amo viajar e ler nas horas vagas  
-
----
-
-###  Tecnologias que utilizo  
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,react,typescript,html,css,c,mysql,postgresql,git,github,vscode,idea&theme=dark" />
-</div>
-
+- 🎓 Estudante de **Ciência da Computação**
+- 💼 Estagiária de **Desenvolvimento de Software** no Grupo Mônaco Diesel
+- 🔧 Atualmente estudando **desenvolvimento back-end com PHP**
+- 🌐 Explorando **front-end com React e TypeScript**
+- 🧩 Interessada em arquitetura de sistemas, banco de dados e boas práticas de engenharia
+- 🚀 Curiosa, dedicada e sempre buscando evoluir
+- 🐱 Apaixonada por tecnologia, livros, café e pela minha gatinha **Lola**
 
 ---
 
-### 📊 Minhas Estatísticas
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,react,typescript,java,mysql,postgresql,html,css,c,git,github,vscode,idea&theme=dark" />
+</div>
+
+---
+
+
+
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=MariaClaraCorecha&theme=tokyonight&hide_border=false"/>
+  <!-- GitHub Stats -->
+  <img height="180" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=MariaClaraCorecha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <br/><br/>
-
-  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api?username=MariaClaraCorecha&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MariaClaraCorecha&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!-- Most Used Languages -->
+  <img height="180" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=MariaClaraCorecha&layout=compact&langs_count=8&theme=dracula"/>
 
 </div>
-
