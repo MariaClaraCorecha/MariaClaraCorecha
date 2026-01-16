@@ -42,10 +42,10 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img height="180" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=MariaClaraCorecha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaClaraCorecha&theme=dracula" height="200" />
 
-  <!-- Most Used Languages -->
-  <img height="180" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=MariaClaraCorecha&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaClaraCorecha&theme=dracula" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaClaraCorecha&theme=dracula" height="200" />
 
 </div>
+
