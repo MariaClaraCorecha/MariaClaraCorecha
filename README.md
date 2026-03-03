@@ -20,10 +20,10 @@
 ## 👩🏻‍💻 Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação**
-- 💼 Estagiária de **Desenvolvimento de Software** no Grupo Mônaco Diesel
-- 🔧 Atualmente estudando **desenvolvimento back-end com PHP**
+- 💼 Estagiária de **Desenvolvimento de Software** no Grupo Mônaco 
+- 🔧 Atualmente estudando **desenvolvimento back-end com PHP e laravel**
 - 🌐 Explorando **front-end com Angular e Typescript**
-- 🧩 Interessada em arquitetura de sistemas, banco de dados e boas práticas de engenharia
+- 🧩 Interessada em arquitetura de sistemas, banco de dados e boas práticas de engenharia de software
 - 🚀 Curiosa, dedicada e sempre buscando evoluir
 - 🐱 Apaixonada por tecnologia, livros, café e pela minha gatinha **Lola**
 
