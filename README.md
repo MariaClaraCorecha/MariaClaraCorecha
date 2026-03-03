@@ -22,7 +22,7 @@
 - 🎓 Estudante de **Ciência da Computação**
 - 💼 Estagiária de **Desenvolvimento de Software** no Grupo Mônaco Diesel
 - 🔧 Atualmente estudando **desenvolvimento back-end com PHP**
-- 🌐 Explorando **front-end com React e TypeScript**
+- 🌐 Explorando **front-end com Angular e Typescript**
 - 🧩 Interessada em arquitetura de sistemas, banco de dados e boas práticas de engenharia
 - 🚀 Curiosa, dedicada e sempre buscando evoluir
 - 🐱 Apaixonada por tecnologia, livros, café e pela minha gatinha **Lola**
