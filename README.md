@@ -32,7 +32,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,react,typescript,java,mysql,postgresql,html,css,c,git,github,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,angular,typescript,docker,java,mysql,postgresql,react,html,css,c,git,github,vscode,idea&theme=dark" />
 </div>
 
 ---
