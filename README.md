@@ -15,7 +15,7 @@
 
 ---
 
-## 🙋‍♀️ Sobre mim
+##  Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação**
 - 💼 Estagiária de **Desenvolvimento de Software** no Grupo Mônaco
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,python,c,laravel,angular,react,html,css,mysql,postgresql,sqlite,docker,git,github,vscode,idea,ubuntu&theme=dark" />
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaClaraCorecha&theme=dracula" height="200" />
