@@ -30,7 +30,7 @@
 ##  Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,python,c,laravel,angular,react,html,css,mysql,postgresql,sqlite,docker,git,github,vscode,idea,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,c,laravel,angular,html,css,mysql,postgresql,sqlite,docker,git,github,vscode,idea,ubuntu&theme=dark" />
 </div>
 
 ---
