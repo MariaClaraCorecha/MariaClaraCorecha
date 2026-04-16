@@ -19,7 +19,7 @@
 
 - 🎓 Estudante de **Ciência da Computação**
 - 💼 Estagiária de **Desenvolvimento de Software** no Grupo Mônaco
-- 🔧 Atualmente estudando **desenvolvimento back-end com PHP e Laravel**
+- 🔧 Atualmente focada em **desenvolvimento back-end com PHP (Laravel) e Java (Spring Boot)**
 - 🌐 Explorando **front-end com Angular e TypeScript**
 - 🧩 Interessada em arquitetura de sistemas, banco de dados e boas práticas de engenharia de software
 - 🚀 Curiosa, dedicada e sempre buscando evoluir
@@ -30,12 +30,12 @@
 ##  Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,javascript,typescript,c,laravel,angular,html,css,mysql,postgresql,sqlite,docker,git,github,vscode,idea,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,java,spring,laravel,javascript,typescript,angular,html,css,mysql,postgresql,sqlite,docker,git,github,vscode,idea,ubuntu&theme=dark" />
 </div>
 
 ---
 
-##  Estatísticas do GitHub
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaClaraCorecha&theme=dracula" height="200" />
