@@ -2,7 +2,7 @@
 
 <img height="180" src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" />
 
-# 👋 Olá! Eu sou a Maria Clara Corecha
+# 👋 Olá! Eu sou Maria Clara Corecha
 
 <a href="https://www.linkedin.com/in/mariaclaracorecha" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" />
