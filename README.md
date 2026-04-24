@@ -18,7 +18,7 @@
 ##  Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação**
-- 💼 Estagiária de **Desenvolvimento de Software** no Grupo Mônaco
+- 💼 **Desenvolvedora Júnior** no Grupo Mônaco
 - 🔧 Atualmente focada em **desenvolvimento back-end com PHP (Laravel) e Java (Spring Boot)**
 - 🌐 Explorando **front-end com Angular e TypeScript**
 - 🧩 Interessada em arquitetura de sistemas, banco de dados e boas práticas de engenharia de software
@@ -34,8 +34,6 @@
 </div>
 
 ---
-
-
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaClaraCorecha&theme=dracula" height="200" />
