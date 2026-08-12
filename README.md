@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/219925452-a3b0d96d-6b65-45ee-b68a-b2208011b26c.jpg" />
-</div>
-
 <h1 align="center">Maria Clara Corecha</h1>
 <h3 align="center">Full Stack Developer · PHP (Laravel) · Angular · Oracle/SQL</h3>
 
